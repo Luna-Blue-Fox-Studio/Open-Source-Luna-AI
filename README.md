@@ -2,4 +2,4 @@
 
 das Projekt ist noch in Arbeit
 
-<br>Created by [@niki-fox](https://github.com/niki-fox)
+<br>Created by [@niki-fox](https://github.com/niki-fox) & [@Luna-Blue-Fox-Studio](https://github.com/Luna-Blue-Fox-Studio)
