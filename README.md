@@ -1,4 +1,6 @@
-[[https://github.com/NIKI-FOX/Open-Source-Luna-AI/blob/d1d8d01f20c081b12064a4edf5d1ecb62d97240f/LUNA.png](https://github.com/Luna-Blue-Fox-Studio/Open-Source-Luna-AI/blob/main/LUNA.png)](https://sites.google.com/view/bluefoxstudio/luna-ki-system)
+[![LUNA](https://github.com/NIKI-FOX/Open-Source-Luna-AI/blob/d1d8d01f20c081b12064a4edf5d1ecb62d97240f/LUNA.png)](https://github.com/Luna-Blue-Fox-Studio/Open-Source-Luna-AI/blob/main/LUNA.png)](https://sites.google.com/view/bluefoxstudio/luna-ki-system)
+
+[![helpwave](https://github.com/helpwave/wg-manager/blob/feecc7b2753fb7e29eace484555e84bf788e4ae4/helpwave.png)](https://www.helpwave.de/) \
 
 das Projekt ist noch in Arbeit
 
